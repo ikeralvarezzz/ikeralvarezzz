@@ -22,10 +22,6 @@ I'm a Web Application Development student from Spain 🇪🇸.
   <img src="https://skillicons.dev/icons?i=vscode,eclipse,docker,git,github" />
 </p>
 
-## Featured Projects
-
-- 🏎️ Formula 1 Quiz — Quiz application developed in Java.
-- ⚔️ Pokémon Battle System — Battle simulator built with object-oriented programming principles.
 
 ## Goals for 2026
 
