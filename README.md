@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**ikeralvarezzz/ikeralvarezzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Web Application Development student from Spain 🇪🇸.
 
-Here are some ideas to get you started:
+💻 Passionate about software development and problem solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Working on personal projects to improve my backend and full-stack skills.
+
+## Technologies
+
+![Java](https://img.shields.io/badge/Java-orange)
+![Python](https://img.shields.io/badge/Python-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![HTML5](https://img.shields.io/badge/HTML5-red)
+![CSS3](https://img.shields.io/badge/CSS3-blue)
+![MySQL](https://img.shields.io/badge/MySQL-lightblue)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+## IDEs & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,docker,git,github" />
+</p>
+
+## Featured Projects
+
+- 🏎️ Formula 1 Quiz — Quiz application developed in Java.
+- ⚔️ Pokémon Battle System — Battle simulator built with object-oriented programming principles.
+
+## Goals for 2026
+
+- Build more complete projects
+- Improve backend development skills
+- Learn software architecture fundamentals
+- Contribute to open source projects
